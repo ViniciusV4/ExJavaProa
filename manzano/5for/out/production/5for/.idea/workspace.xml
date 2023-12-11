@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="2ZN8JIEQIrQMk6cAtwWrMF3R2Oi" />
+  <component name="RunManager" selected="Application.ExBTabuada1ate10">
+    <configuration name="ExARaizQuadrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExARaizQuadrada" />
+      <module name="5for" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExBTabuada1ate10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExBTabuada1ate10" />
+      <module name="5for" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExBTabuada1ate10" />
+        <item itemvalue="Application.ExARaizQuadrada" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
